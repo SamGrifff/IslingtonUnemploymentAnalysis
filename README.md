@@ -94,15 +94,6 @@ Year: **2024–2025**
 
 ---
 
-## 🚀 Future Improvements
-
-- Use Python (Pandas, Scikit-learn) instead of SPSS
-- Apply more advanced models (Random Forest, XGBoost)
-- Handle class imbalance using SMOTE
-- Add interactive dashboard (Power BI / Tableau)
-
----
-
 ## 📄 Licence
 
 This project is for academic purposes only.
